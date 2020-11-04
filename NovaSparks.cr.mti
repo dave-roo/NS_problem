@@ -1,0 +1,26 @@
+C:/Modeltech_pe_edu_10.4a/examples/ROM_LUT.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/ROM_LUT.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rom_4x4_async
+-- Compiling architecture rom_4x4_async_arch of rom_4x4_async
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/ROM_LUT_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/ROM_LUT_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity rom_4x4_async_TB
+-- Compiling architecture rom_4x4_async_TB_arch of rom_4x4_async_TB
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/and_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/examples/and_gate.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture rtl of and_gate
+
+} {} {}}
