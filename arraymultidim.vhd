@@ -2,7 +2,6 @@
 type t_Row_Col is array (0 to 3, 0 to 2) of integer range 0 to 9;
 signal r_Number : t_Row_Col;
  
- 
 -- Accessing The Array:
 r_Choice <= r_Number(0, 1);
  
